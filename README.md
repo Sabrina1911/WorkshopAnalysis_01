@@ -18,7 +18,9 @@ Install dependencies using:
 
 ```bash
 python -m venv .venv
+# PowerShell:
 . .\.venv\Scripts\Activate.ps1
+pip install --upgrade pip
 pip install -r requirements.txt 
 ```
 
