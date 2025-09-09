@@ -37,10 +37,13 @@ Based on Unit 1 (Slides 22–23), the dataset will need:
 ## Repository Structure
 WS_1/
 ├── data/         # raw CSV data (accident.csv, person.csv, vehicle.csv)
-├── notebooks/    # Jupyter notebooks (01_trafficcollision.ipynb)
+├── notebooks/    # Jupyter notebooks (01_trafficcollision.ipynb, 02_quickview.ipynb)
 ├── outputs/      # analysis outputs (to be generated)
 ├── src/          # helper scripts (if needed later)
 ├── .venv/        # virtual environment
 └── README.md     # project documentation
 
+## Conclusion
 
+Because the FARS dataset contains only fatal crashes, our original question was reframed to:  
+“Which roadway and environmental features are common among fatal crashes in Arizona (2012–2016)?"
