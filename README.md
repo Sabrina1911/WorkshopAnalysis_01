@@ -1,8 +1,8 @@
 # PAW1 – Traffic Collision Severity (Workshop 1)
 
 ## Team Members
-- Andrew Silveria (Student ID: )
-- Rohit Krishnamurthy Iyer (Student ID: )
+- Andrew Silveira (Student ID:5077086 )
+- Rohit Krishnamurthy Iyer (Student ID:8993045)
 - Sabrina Ronnie George Karippatt (Student ID: 8991911)
 
 ## Project Overview
